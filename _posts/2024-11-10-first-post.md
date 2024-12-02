@@ -32,3 +32,6 @@ def reliability(wifi_if: str, wifi_ssid: str, wifi_pwd: str, server: str, max_re
 ```
 
 I will work more on it and try to release a more elaborate tool which also take the physical layer properties as inputs.
+
+> N.B: It only works on linux :)
+{: .prompt-tip }
